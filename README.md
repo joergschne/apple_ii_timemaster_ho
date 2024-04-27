@@ -1,5 +1,5 @@
 # apple_ii_timemaster_ho
- Apple II Timemaster H.O. Clock Card - reloaded
+ Apple II Timemaster II H.O. Clock Card - reloaded
 
 APPLE II forever!
 
